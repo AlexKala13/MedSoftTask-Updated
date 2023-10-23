@@ -1,0 +1,45 @@
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\MEDSOFT Task.exe.config
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\MEDSOFT Task.exe
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\MEDSOFT Task.pdb
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\obj\Debug\MEDSOFT Task.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\obj\Debug\MEDSOFT Task.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\obj\Debug\MEDSOFT_Task.AddEditForm.resources
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\obj\Debug\MEDSOFT_Task.Main.resources
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\obj\Debug\MEDSOFT_Task.Properties.Resources.resources
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\obj\Debug\MEDSOFT Task.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\obj\Debug\MEDSOFT Task.exe.licenses
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\obj\Debug\MEDSOFT Task.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\obj\Debug\MEDSOFT Task.csproj.CopyComplete
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\obj\Debug\MEDSOFT Task.exe
+C:\Users\pc\source\repos\MEDSOFT Task\MEDSOFT Task\obj\Debug\MEDSOFT Task.pdb
